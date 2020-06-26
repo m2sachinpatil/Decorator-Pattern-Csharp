@@ -27,10 +27,10 @@ Following tool and technologies used :
 6. Decorator design pattern (Partial)
 
 Artifacts
-1. PeerisLand.Assignment.txt
-  1.1 PeerisLand.Assignment - Contains fist problem statement  
-  1.2 PeerisLand.Assignment2 - Contains second problem staement
-  1.3 PeerisLand.Assignment1.UnitTest - Where able to complete unit test for couple of  class ony becuase of time constarain.
+1. Employee.Assignment.sln
+  1.1 Employee.Assignment - Contains fist problem statement  
+  1.2 Employee.Assignment2 - Contains second problem staement
+  1.3 Employee.Assignment1.UnitTest - Where able to complete unit test for couple of  class ony becuase of time constarain.
 2. xmlfile.txt - Hold 2 files for both assignments.
 
 Note:
