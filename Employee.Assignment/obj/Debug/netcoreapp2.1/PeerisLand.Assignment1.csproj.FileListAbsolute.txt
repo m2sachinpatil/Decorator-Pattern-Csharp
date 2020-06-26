@@ -1,0 +1,4 @@
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment\obj\Debug\netcoreapp2.1\PeerisLand.Assignment1.csprojAssemblyReference.cache
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment\obj\Debug\netcoreapp2.1\PeerisLand.Assignment1.csproj.CoreCompileInputs.cache
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment\obj\Debug\netcoreapp2.1\PeerisLand.Assignment1.AssemblyInfoInputs.cache
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment\obj\Debug\netcoreapp2.1\PeerisLand.Assignment1.AssemblyInfo.cs

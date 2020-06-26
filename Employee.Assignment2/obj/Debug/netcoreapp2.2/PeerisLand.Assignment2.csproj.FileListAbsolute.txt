@@ -1,0 +1,15 @@
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\bin\Debug\netcoreapp2.2\XMLFile\EmployeesData.xml
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\bin\Debug\netcoreapp2.2\PeerisLand.Assignment2.deps.json
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\bin\Debug\netcoreapp2.2\PeerisLand.Assignment2.runtimeconfig.json
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\bin\Debug\netcoreapp2.2\PeerisLand.Assignment2.runtimeconfig.dev.json
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\bin\Debug\netcoreapp2.2\PeerisLand.Assignment2.dll
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\bin\Debug\netcoreapp2.2\PeerisLand.Assignment2.pdb
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\bin\Debug\netcoreapp2.2\PeerisLand.Assignment1.dll
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\bin\Debug\netcoreapp2.2\PeerisLand.Assignment1.pdb
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\obj\Debug\netcoreapp2.2\PeerisLand.Assignment2.csprojAssemblyReference.cache
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\obj\Debug\netcoreapp2.2\PeerisLand.Assignment2.csproj.CoreCompileInputs.cache
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\obj\Debug\netcoreapp2.2\PeerisLand.Assignment2.AssemblyInfoInputs.cache
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\obj\Debug\netcoreapp2.2\PeerisLand.Assignment2.AssemblyInfo.cs
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\obj\Debug\netcoreapp2.2\PeerisLand.Assignment2.csproj.CopyComplete
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\obj\Debug\netcoreapp2.2\PeerisLand.Assignment2.dll
+D:\Personal\POC\peerislands\PeerisLand.Assignment\PeerisLand.Assignment2\obj\Debug\netcoreapp2.2\PeerisLand.Assignment2.pdb
