@@ -16,4 +16,6 @@ maintains a reference to a Component object and defines an interface that confor
 ConcreteDecorator   (Borrowable)
 adds responsibilities to the component.
 
+https://www.dofactory.com/images/diagrams/net/decorator.gif
+
 NOTE: please check constant before running application. 
